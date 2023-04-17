@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "content": "hello",
+      "markComplete": false,
+      "id": 1
+    },
+    {
+      "content": "world",
+      "markComplete": true,
+      "id": 2
+    },
+    {
+      "content": "Monday",
+      "markComplete": false,
+      "id": 3
+    },
+    {
+      "content": "Tuesday",
+      "markComplete": false,
+      "id": 4
+    }
+  ]
+}
